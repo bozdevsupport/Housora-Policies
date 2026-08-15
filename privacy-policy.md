@@ -45,4 +45,4 @@ We may update this policy from time to time. Material changes will be reflected 
 
 ## Contact
 
-Questions about this policy or your data can be sent to: **[YOUR CONTACT EMAIL HERE]**
+Questions about this policy or your data can be sent to: **bozdevsupport@gmail.com**
