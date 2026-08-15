@@ -6,7 +6,7 @@ title: Housora Support
 
 Need help with Housora, or have a question, bug report, or feature request? Reach out at:
 
-**[YOUR CONTACT EMAIL HERE]**
+**[bozdevsupport@gmail.com]**
 
 We aim to respond within a few business days.
 
