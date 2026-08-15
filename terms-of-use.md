@@ -43,4 +43,4 @@ We may update these terms from time to time. Continued use of the app after chan
 
 ## Contact
 
-Questions about these terms can be sent to: **[YOUR CONTACT EMAIL HERE]**
+Questions about these terms can be sent to: **[bozdevsupport@gmail.com]**
