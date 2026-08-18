@@ -33,7 +33,7 @@ Neither is used for advertising or tracking purposes, and Housora does not use t
 
 ## Data Retention and Deletion
 
-Your content is retained as long as your account is active. To request deletion of your account and all associated data, contact us at the email below. Household sharing: if you leave or are removed from a shared home, you lose access to that home's content, but content you personally own is unaffected.
+Your content is retained as long as your account is active. You can permanently delete your account and all data you own directly in the app: open a home's **Sharing** screen and choose **Delete Account** under the Account section. Deleting your account removes every home you own and its contents; anything you contributed to another member's home remains with that home, with your attribution removed. You can also request deletion by contacting us at the email below. Household sharing: if you leave or are removed from a shared home, you lose access to that home's content, but content you personally own is unaffected.
 
 ## Children's Privacy
 
